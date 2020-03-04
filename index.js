@@ -1,4 +1,4 @@
-var xp=document.createElement('div');
+/* var xp=document.createElement('div');
 xp.id='ohnoes';
 xp.innerHTML='oh noes';
 xp.style.position='fixed';
